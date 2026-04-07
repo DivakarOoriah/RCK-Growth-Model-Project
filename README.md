@@ -1,4 +1,4 @@
-# Ramsey-Cass-Koopmans Model — MATLAB Group Project
+# Ramsey-Cass-Koopmans Model — MATLAB Project
 
 **Course:** Economics — University of Toronto  
 **Language:** MATLAB
