@@ -1,6 +1,6 @@
 # Ramsey-Cass-Koopmans Model — MATLAB Project
 
-**Course:** Economics — University of Toronto  
+**Course:** ECO325 — University of Toronto  
 **Language:** MATLAB
 
 ---
